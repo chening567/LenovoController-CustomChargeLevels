@@ -7,6 +7,8 @@ I am not responsible for anything, use at your own risk
 
 This is not a finished release 
 
+This just basically sets the battery mode to normal if its above a certian percentage, then sets the mode to conservation above a certain percentage
+
 # How to use 
 
 Set a start charge level and a stop charge level. 
