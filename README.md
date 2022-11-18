@@ -1,3 +1,30 @@
+# Lenovo Controller Custom Charge Levels
+Lenovo controller with custom charge limits. This is a Fork of Lenovo Controller, I only added custom charge levels. 
+
+[Lenovo Controller](https://github.com/ViRb3/LenovoController)
+
+I am not responsible for anything, use at your own risk
+
+This is not a finished release 
+
+# How to use 
+
+Set a start charge level and a stop charge level. 
+
+If the battery level is below the start charge level, the battery mode is set to normal. If the battery level is higher than the stop charge level, the battery mode is set to conservation. 
+
+If the "Always charge" checkbox is checked, then when the laptop has gone from unplugged to plugged in it will always charge to the stop charge level. 
+
+# Tested Laptops
+
+IdeaPad Gaming 3 15IMH05
+
+
+
+--------------------------------------------------------------------
+
+
+
 # Lenovo Controller
 
 > A lightweight alternative to Lenovo Vantage
